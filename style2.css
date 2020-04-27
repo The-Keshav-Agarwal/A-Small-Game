@@ -1,8 +1,12 @@
 *{
+	margin: 0;
+	padding: 0;
     background-color:#ffc13b;
 }
 .main{
    background-color:  #1e3d59;
-   margin-left:170px;
-   margin-top:50px;
+   margin-top: 30px
+}
+body{
+	text-align: center;
 }
